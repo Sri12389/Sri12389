@@ -1,4 +1,4 @@
-hi there 👋
+Hi there 👋
 
 I’m a computer science student at Rutgers University with a passion for full-stack development, quantitative finance, and building smart systems using AI & data. 
 
@@ -9,4 +9,5 @@ Always happy to connect, collaborate, or chat about projects — don’t hesitat
 
 wanna reach me? 
 email: Srijanreddye@gmail.com
+
 LinkedIn: www.linkedIn.com/in/srijanerigela/
