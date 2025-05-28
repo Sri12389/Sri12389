@@ -1,13 +1,17 @@
-Hi there 👋
+ Hey there!
 
-I’m a computer science student at Rutgers University with a passion for full-stack development, quantitative finance, and building smart systems using AI & data. 
+I’m a computer science student at Rutgers University with a deep interest in full-stack development, quantitative systems, and applied AI. Lately, I’ve been building:
 
-I’m exploring retrieval-augmented generation (rag), building finance tools powered by AI, and always pushing to learn something new.
+	•	AI-powered finance tools with Python, React, and Firebase
 
+	•	High-performance C++/Python backtesting engines
 
-Always happy to connect, collaborate, or chat about projects — don’t hesitate to reach out!
+	•	Retrieval-augmented generation (RAG) pipelines for smarter document search
 
-wanna reach me? 
-email: Srijanreddye@gmail.com
+	•	End-to-end Dockerized apps with CI/CD and GitHub Actions
 
-LinkedIn: www.linkedIn.com/in/srijanerigela/
+I love blending technical depth with practical problem-solving. Always open to new ideas, collaborations, or conversations!
+
+📫 Reach me at: Srijanreddye@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/srijan-erigela-1b4117241/
